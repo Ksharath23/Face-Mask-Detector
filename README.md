@@ -13,3 +13,5 @@ Created Face Mask Detector using Single Shot Mutltibox Detector
   <img src="https://user-images.githubusercontent.com/109217804/186103318-e6be9a81-05ab-47a7-84d9-7bf22ce0c44f.jpeg" width=300 height=300/>
   <img src="https://user-images.githubusercontent.com/109217804/186104247-005322f7-0ac5-4ac5-b1d0-03d8e3ca10eb.jpg" width=300 height=300/>
 </p>
+<h3>Output Images</h3>
+![download](https://user-images.githubusercontent.com/109217804/186106390-794a9d60-7e49-4ee4-8f6e-7cdd1d75ab63.png)
