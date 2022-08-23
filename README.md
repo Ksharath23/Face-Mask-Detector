@@ -1,5 +1,5 @@
 # Face-Mask-Detector
-Created Face Mask Detector using Single Shot Mutltibox Detector
+Created Face Mask Detector using Single Shot Multibox Detector
 
 <h3>Input Images</h3>
 
