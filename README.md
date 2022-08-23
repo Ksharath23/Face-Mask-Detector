@@ -1,2 +1,4 @@
 # Face-Mask-Detector
-first repo
+Created Face Mask Detector using Single Shot Mutltibox Detector
+
+
